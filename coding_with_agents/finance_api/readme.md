@@ -12,5 +12,4 @@ In this project, we will develop four robust API endpoints to facilitate seamles
 
 To run the backend server:
 > fastapi dev main.py  -- development environment
-
 > fastapi run main.py -- production environment
