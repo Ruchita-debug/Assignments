@@ -1,6 +1,6 @@
 # Course Name: Coding Essentials for Agents - Analytics Vidya
 
-In this project, we will develop four robust API endpoints to facilitate seamless data retrieval and analysis:
+In this project, we will develop four robust API endpoints to facilitate seamless data retrieval and analysis, using FastAPI:
 
 1. Company Information Endpoint: This endpoint will retrieve detailed company information, such as the full company name, business summary, industry, sector, and key officers' names and titles, by accepting a valid company symbol as input. The data will be sourced using the Yahoo Finance API.
 

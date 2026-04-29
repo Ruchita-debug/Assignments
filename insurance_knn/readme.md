@@ -1,6 +1,6 @@
 # Course Name: Building your first ML Model
 
-This is a part of the assignment of the above mentioned course.
+This is a part of the assignment of the above mentioned course. In this course, we learnt about data engineering, scaling, normalization and KNN models.
 
 Problem Statement
 Anova Insurance, a global health insurance company, seeks to optimize its insurance
